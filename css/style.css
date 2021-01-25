@@ -1019,3 +1019,15 @@ input[type="reset"].style3:hover,
 .poptrox-popup:hover .closer:hover {
     opacity: 1.0;
 }
+.wwa {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
+.logo1{
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px
+}
