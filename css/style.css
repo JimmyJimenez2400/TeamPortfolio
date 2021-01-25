@@ -100,7 +100,7 @@ i {
 }
 
 a {
-    color: #35b88f;
+    color: #ffffff;
     text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
     -moz-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
     -webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
@@ -461,7 +461,7 @@ input[type="button"]:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 .button:hover {
-    background: #45c89f;
+    background: #4573c8;
 }
 
 input[type="button"].style2,
